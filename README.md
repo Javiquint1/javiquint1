@@ -35,4 +35,4 @@
 * **Architectural Independence:** My experience managing "various copies and versioning" manually has given me a deep, fundamental understanding of code state and file integrity that goes beyond just running Git commands.
 * **Adaptability:** Successfully navigated the pre-AI freelance market by staying ahead of tech trends and delivering high-value, custom-built software.
 
-📫 **Let's Connect:** (https://www.linkedin.com/in/javiquint1/?locale=en_US) | [Your Email]
+📫 **Let's Connect:** https://www.linkedin.com/in/javiquint1/?locale=en_US | [xavierquint@gmail.com]
