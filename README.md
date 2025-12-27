@@ -8,7 +8,7 @@
 ## 🏗️ Freelance & Consulting Legacy
 *Highlights from my career as an independent developer:*
 
-* **Full-Lifecycle Development**: Managed end-to-end delivery of [X] commercial applications for diverse clients, handling everything from database schema design (MySQL) to frontend interactivity (React/TypeScript).
+* **Full-Lifecycle Development**: Managed end-to-end delivery of many commercial applications for diverse clients, handling everything from database schema design (MySQL) to frontend interactivity (React/TypeScript).
 * **Enterprise-Grade PHP Solutions**: Developed and maintained complex back-end systems using PHP, ensuring high performance and security for client-critical data.
 * **Rapid Prototyping & Deployment**: Specialized in taking raw business requirements and turning them into production-ready web platforms using a modern stack of Node.js and React.
 
